@@ -7,3 +7,7 @@ Waiting upload
 ## 2 Train Network
 
 > python train_net.py
+
+## 3 Pretrained weights
+
+https://drive.google.com/file/d/19FaSnMmUCa8yjpkX-jgucA0D5wRsNWe0/view?usp=drive_link
